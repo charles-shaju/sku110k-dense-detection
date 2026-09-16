@@ -65,3 +65,5 @@ Built with Gradio, hosted on Hugging Face Spaces (ZeroGPU). Upload a shelf/wareh
 ## Stack
 
 `ultralytics` (YOLOv8) · PyTorch · ONNX Runtime · TensorRT · Gradio · Hugging Face Spaces
+
+🔗 **[Live Demo](https://charles1010-sku110k-dense-detection.hf.space/?__theme=system&deep_link=JcNnqC3A9o8)** — try it yourself
